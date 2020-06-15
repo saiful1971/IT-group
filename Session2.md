@@ -3,6 +3,7 @@ We joined meeting through Google Meet.
 Test the latest features with SQL Server 2017 Developer Edition. Full-featured free edition.
 https://cloudblogs.microsoft.com/sqlserver/2019/01/21/test-the-latest-features-with-sql-server-2017-developer-edition/
 Free Download SQL Server Management Studio (SSMS) 
+Then download sample database from Microsoft.com
 AdventureWorks installation and configuration. OLTP downloads. AdventureWorks2017.bak
 Create a directory under C:\drive C:\ITGroup>Copy file AdventureWorks2017.bak
 Connect SQL Server Management Studio
